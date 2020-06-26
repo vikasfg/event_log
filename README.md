@@ -20,7 +20,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
+<b>
 Event Log Project 
 This project is based on storing logs and fetching logs.
 
@@ -36,7 +36,7 @@ ProcessController is define for all bussiness logic
 Model- use Illuminate\Database\Eloquent\Model;
 Savelogs 
 it is representing  MongoDb tbl_logs model 
-
+</b>
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
